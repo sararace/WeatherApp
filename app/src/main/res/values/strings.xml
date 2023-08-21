@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="degrees_fahrenheit">%1$d°F</string>
+    <string name="max_degrees_fahrenheit">H:%1$d°F</string>
+    <string name="min_degrees_fahrenheit">L:%1$d°F</string>
+    <string name="search_label">Search</string>
+</resources>
